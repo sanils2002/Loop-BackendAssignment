@@ -55,6 +55,6 @@ Python Django framework and PostgreSQL database.
   --url http://localhost:8000/store/get_report/ \
   --header 'Content-Type: application/json' \
   --data '{
-	"report_id": 74
+	"report_id": 2
 	
 }'
